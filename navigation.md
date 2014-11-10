@@ -22,30 +22,30 @@
 [Home]()
 
 [Frameworks](pages/frameworks.md)
-	* [Websphere](pages/frameworks/websphere.md)
-	* [SharePoint](pages/frameworks/sharepoint.md)
-	* [.Net](pages/frameworks/dotnet.md)
-	* [Ember](pages/frameworks/ember.md)
-	* [Angular.js](pages/frameworks/angular.md)
+	*[Websphere](pages/frameworks/websphere.md)
+	*[SharePoint](pages/frameworks/sharepoint.md)
+	*[.Net](pages/frameworks/dotnet.md)
+	*[Ember](pages/frameworks/ember.md)
+	*[Angular.js](pages/frameworks/angular.md)
 
 [Responsive Frameworks](pages/responsiveframeworks.md)
-	* [Bootstrap](pages/frameworksbootstrap.md)
-	* [Foundation](pages/frameworksfoundation.md)
+	*[Bootstrap](pages/frameworksbootstrap.md)
+	*[Foundation](pages/frameworksfoundation.md)
 
 [CSS](pages/csslanding.md)
-	* [CSS](pages/css/css.md)
-	* [Sass](pages/css/sass.md)
-	* [Less](pages/css/less.md)
+	*[CSS](pages/css/css.md)
+	*[Sass](pages/css/sass.md)
+	*[Less](pages/css/less.md)
 
 [Code](pages/code.md)
-	* [HTML5](pages/code/html5.md)
-	* [Javascript](pages/code/javascript.md)
-	* [JQuery](pages/code/jquery.md)
+	*[HTML5](pages/code/html5.md)
+	*[Javascript](pages/code/javascript.md)
+	*[JQuery](pages/code/jquery.md)
 
 [Design](pages/design.md)
 	
 [Process](pages/process.md)
-	* [LeanUX](pages/process/leanux.md)
+	*[LeanUX](pages/process/leanux.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

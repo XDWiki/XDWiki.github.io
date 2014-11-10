@@ -1,7 +1,7 @@
 # XD Wiki
 
-[Home]()
-- - - -
+[Home](index.md)
+
 [Frameworks]()
 
   * # SubMenu Heading 1

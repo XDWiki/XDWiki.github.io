@@ -17,7 +17,7 @@
 
 [CSS]()
 
-  * [CSS](pages/css.md)
+  * [CSS](pages/css3.md)
   * [Sass](pages/sass.md)
   * [Less](pages/less.md)
 

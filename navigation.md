@@ -5,7 +5,7 @@
 [Frameworks]()
 
   * [Websphere](pages/websphere.md)
-  * [ShaerPoint](pages/sharepoint.md)
+  * [SharePoint](pages/sharepoint.md)
   * [.Net](pages/dotnet.md)
   * [Ember](pages/ember.md)
   * [Angular JS](pages/angularjs.md)

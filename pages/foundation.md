@@ -5,6 +5,10 @@ Foundation
 
 A short summary describing the framework, plug-in etc.
 
+### Summary Subsection:
+
+Here is a summary of the summary
+
 ## Pros:
 
 The advantages of using the framework, plug-in etc.

@@ -24,6 +24,17 @@ The disadvantages of using the framework, plug-in etc.
 
 Information about the component or plug-in along with basic examples and some markup/code
 
+###Example
+```
+.alert-copy{
+  font-family: 'ProximaNova';
+  font-size: 18px;
+  color: #464646;
+  text-align: left;
+  margin-left: 40px;
+  line-height: 1.2;
+}
+```
 ## Component 2
 
 Information about the component or plug-in along with basic examples and some markup/code

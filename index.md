@@ -38,3 +38,11 @@ Information about the component or plug-in along with basic examples and some ma
 ## Component 2
 
 Information about the component or plug-in along with basic examples and some markup/code
+
+#### Example
+```
+$(document).ready(function() {
+  //Wire up the bootstrap select elements
+  $('.selectpicker').selectpicker();
+});
+```

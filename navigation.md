@@ -32,3 +32,6 @@
 [Process]()
 
   * [Lean UX](pages/leanux.md)
+
+
+[gimmick:theme](slate)

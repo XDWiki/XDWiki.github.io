@@ -19,4 +19,4 @@ Information about the component or plug-in along with basic examples and some ma
 
 ## Bootstrap Themes
 
-Information about the component or plug-in along with basic examples and some markup/code
+Information about the bootstrap themes along with basic examples and some markup/code

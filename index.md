@@ -24,7 +24,9 @@ The disadvantages of using the framework, plug-in etc.
 
 ## Component 1
 
-Information about the component or plug-in along with basic examples and some markup/code
+Information about the component or plug-in along with basic examples and some markup/code.
+
+If you want to learn more about this component you can go here: [CSS Home](http://www.w3schools.com/css/)
 
 #### Example
 ```
@@ -39,10 +41,13 @@ Information about the component or plug-in along with basic examples and some ma
 ```
 ## Component 2
 
-Information about the component or plug-in along with basic examples and some markup/code
+Information about the component or plug-in along with basic examples and some markup/code.
+
+If you want to learn more about this component you can go here: [Bootstrap Select Home](http://silviomoreto.github.io/bootstrap-select/)
 
 #### Example
 ```
+//Wiring up the bootstrap select plug-in
 $(document).ready(function() {
   //Wire up the bootstrap select elements
   $('.selectpicker').selectpicker();

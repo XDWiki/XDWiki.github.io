@@ -1,22 +1,22 @@
 Bootstrap
 ======================
 
-## Summary:
+## Summary
 
 A short summary describing the framework, plug-in etc.
 
-## Pros:
+### Pros
 
 The advantages of using the framework, plug-in etc.
 
-## Cons:
+### Cons
 
 The disadvantages of using the framework, plug-in etc.
 
-## XD:
+## Component 1
 
-References: People in XD that have used the framework, plug-in etc.
+Information about the component or plug-in along with basic examples and some markup/code
 
-## CASES:
+## Component 2
 
-Projects that XD has worked on that used framework, plug-in etc.
+Information about the component or plug-in along with basic examples and some markup/code

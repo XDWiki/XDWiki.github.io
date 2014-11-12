@@ -1,4 +1,4 @@
-# [logo]: http://perficientxd.com/assets/img/c/logo.png "Perficient XD Logo"
+[logo]: http://perficientxd.com/assets/img/c/logo.png "Perficient XD Logo"
 
 [Home](index.md)
 

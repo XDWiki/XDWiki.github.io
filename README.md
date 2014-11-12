@@ -17,4 +17,4 @@ You can then push and pull to this repository. To get an understanding of the st
 
 ### I still have questions. What do I do ?
 
-We know that the world is not perfect. If you still have any questions with this wiki, get in touch with harish (harish.bhavanichikar@perficient.com) or Michael (michael.gorgone@perficient.com) and they will be happy to help you.
+We know that the world is not perfect. If you still have any questions with this wiki, get in touch (or take them for beer) with harish (harish.bhavanichikar@perficient.com) or Michael (michael.gorgone@perficient.com) and they will be happy to help you.

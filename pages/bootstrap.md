@@ -13,6 +13,8 @@ Bootstrap provides in-built responsive classes, jquery plugins and html componen
 
 At times, one needs to tweak bootstrap's inbuilt classes and plugins which might take more time, than writing one on your own. Also, if you are not using all of bootstrap's features, then including the heavy css file on your projects might add a toll on the http requests. 
 
+___
+
 ## Forms
 
 Information about the component or plug-in along with basic examples and some markup/code

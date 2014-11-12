@@ -16,7 +16,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 ***
 
 ## Forms
-#### [jQuery Validator Plugin](jqueryvalidation.org) 
+#### [jQuery Validator Plugin](http://www.jqueryvalidation.org) 
 
 **Used by** - Harish
 **Project** - HCA
@@ -40,7 +40,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 ***
 
 ## Bootstrap Themes
-#### [Bootswatch](bootswatch.com) 
+#### [Bootswatch](http://www.bootswatch.com) 
 
 #### Summary
 1. Bootswatch provides themes built on top of bootstrap, downloadable for free.

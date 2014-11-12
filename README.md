@@ -1,8 +1,6 @@
 XDWiki.github.io
 ================
 
-The XD Wiki
-
 ### What is XD Wiki ?
 
 XD Wiki is a wiki repository built and maintained by XD colleagues to document the latest and awesome stuff by the folks at Perficient XD.
@@ -19,4 +17,4 @@ You can then push and pull to this repository. To get an understanding of the st
 
 ### I still have questions. What do I do ?
 
-We know the world is not perfect. If you still have any questions with this wiki, get in touch with harish (harish.bhavanichikar@perficient.com) or Michael (michael.gorgone@perficient.com) and they will be happy to help you.
+We know that the world is not perfect. If you still have any questions with this wiki, get in touch with harish (harish.bhavanichikar@perficient.com) or Michael (michael.gorgone@perficient.com) and they will be happy to help you.

@@ -1,4 +1,4 @@
-![alt text](http://perficientxd.com/assets/img/c/logo.png "Perficient XD Logo")
+# XD Wiki
 
 [Home](index.md)
 

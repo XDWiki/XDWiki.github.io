@@ -1,4 +1,4 @@
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text](http://perficientxd.com/assets/img/c/logo.png "Perficient XD Logo")
 
 [Home](index.md)
 

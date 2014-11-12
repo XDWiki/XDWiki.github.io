@@ -3,7 +3,7 @@ Bootstrap
 
 ## Summary
 
-Bootstrap is a popular front end framework used by XD Colleagues on a large number of client Projects, to develop responsive websites.
+Bootstrap is a popular front end framework used by XD Colleagues on a large number of client projects, to develop responsive websites.
 
 ### Pros
 

@@ -22,6 +22,8 @@ The advantages of using the framework, plug-in etc.
 
 The disadvantages of using the framework, plug-in etc.
 
+***
+
 ## Component 1
 
 Information about the component or plug-in along with basic examples and some markup/code.
@@ -39,6 +41,9 @@ If you want to learn more about this component you can go here: [CSS Home](http:
   line-height: 1.2;
 }
 ```
+
+***
+
 ## Component 2
 
 Information about the component or plug-in along with basic examples and some markup/code.

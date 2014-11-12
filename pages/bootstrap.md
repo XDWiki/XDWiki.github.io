@@ -40,4 +40,16 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 ***
 
 ## Bootstrap Themes
-Information about the bootstrap themes along with basic examples and some markup/code
+#### [Bootswatch](bootswatch.com) 
+
+#### Summary
+1. Bootswatch provides themes built on top of bootstrap, downloadable for free.
+2. Contains a large number of themes such as flat, slate, papaer, etc.
+3. If you want your site to be different from the regular bootstrap site, this is a good options.
+
+#### Pros
+1. Select the theme you want and click download. It is that simple.
+
+#### Cons
+1. Difficult to customize.
+2. Difficult to move to another theme after a particular one is used on the application.

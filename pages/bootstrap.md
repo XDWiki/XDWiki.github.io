@@ -69,7 +69,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 #### Summary
 1. Bootswatch provides themes built on top of bootstrap, downloadable for free.
 2. Contains a large number of themes such as flat, slate, paper, etc.
-3. If you want your site to be different from the regular bootstrap site, this is a good options.
+3. If you want your site to be different from the regular bootstrap site, this is a good option.
 
 #### Pros
 1. Select the theme you want and click download. It is that simple.

@@ -7,6 +7,8 @@ XD Wiki is a wiki repository built and maintained by XD colleagues to document t
 
 ### How do I contribute to XD Wiki ?
 
+The XD Wiki pages are created using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so there's no need to know HTML.
+
 Firstly, you need to be a XD Colleague. If you are not, [click](http://www.perficient.com/About/Careers) here to apply for the next best job in the world. 
 
 If you are a XD Colleague, send an email to harish @ harish.bhavanichikar@perficient.com to get access to this repository and then do a git clone by 

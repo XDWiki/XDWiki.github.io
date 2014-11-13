@@ -41,7 +41,14 @@ Lean UX in an Agile development process was used during the BSMN project
 
 ####Summary of the project
 
+Here's what we did
+
+
 ####What Worked
+
+Here's what worked
+
 
 ####What Didn't Worked
 
+Are you kidding?!?! Everything worked because we're @#%$ awesome.

@@ -2,7 +2,7 @@
 
 [Home](index.md)
 
-[Technologies]()
+[Platforms]()
 
   * [Websphere](pages/websphere.md)
   * [SharePoint](pages/sharepoint.md)

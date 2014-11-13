@@ -16,7 +16,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 ***
 
 ## Forms
-#### **1.** [jQuery Validator Plugin](http://www.jqueryvalidation.org) 
+#### [1. jQuery Validator Plugin](http://www.jqueryvalidation.org) 
 
 **Used by** - Harish
 **Project** - HCA
@@ -39,7 +39,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 
 ***
 
-#### **2.** [Bootstrap Validator Plugin](http://bootstrapvalidator.com/) 
+#### [2. Bootstrap Validator Plugin](http://bootstrapvalidator.com/) 
 
 **Used by** - Mike Gorgone
 **Project** - BSC

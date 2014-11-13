@@ -3,7 +3,7 @@ XDWiki.github.io
 
 ### What is XD Wiki ?
 
-XD Wiki is a wiki repository built and maintained by XD colleagues to document the latest and awesome stuff by the folks at Perficient XD.
+XD Wiki is a wiki repository built and maintained by XD colleagues to document the latest and awesome stuff built by the folks at Perficient XD.
 
 ### How do I contribute to XD Wiki ?
 

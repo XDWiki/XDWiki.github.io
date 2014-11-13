@@ -33,10 +33,5 @@
 
   * [Lean UX](pages/leanux.md)
 
-[Test]()
-
-  * [Sub 1]()
-   * [Page](pages/leanux.md)
-
 
 [gimmick:theme](slate)

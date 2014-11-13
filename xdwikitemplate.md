@@ -29,7 +29,7 @@ Information about the component or plug-in along with basic examples and some ma
 If you want to learn more about this component you can go here: [CSS Home](http://www.w3schools.com/css/)
 
 #### Example
-```
+<!-- ``` remove comment markup to use the markdown code wrapper -->
 .alert-copy{
   font-family: 'ProximaNova';
   font-size: 18px;
@@ -38,7 +38,7 @@ If you want to learn more about this component you can go here: [CSS Home](http:
   margin-left: 40px;
   line-height: 1.2;
 }
-```
+<!-- ``` remove comment markup to use the markdown code wrapper -->
 ```
 
 

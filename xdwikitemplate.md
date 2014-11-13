@@ -1,11 +1,11 @@
 XD Wiki Template
 ================
 
-Below is the starting markdown code needed to create an XD Wiki page.
+Below is the starting markdown structure needed to create an XD Wiki page.
 
 ***
 
-###Copy the below into your new XD Wiki page and edit as needed.
+####Copy the below into your new XD Wiki page and edit as needed.
 
 ```
 ## Summary

@@ -58,7 +58,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 
 #### Cons
 1. Since it's based on Bootstrap your forms must be structured using Bootstrap classes
-2. If you have dynamic form fields that are visible/hidden and you are using other Bootstrap plug-ins in the form (ex. bootstrap select) you will run into issues. Hidden fields can be ignored so they aren't validated BUT in the case of bootstrap select the <select> is hidden even though the rendered dropdown list is visible.
+2. If you have dynamic form fields that are visible/hidden and you are using other Bootstrap plug-ins in the form (ex. bootstrap select) you will run into issues. Hidden fields can be ignored so they aren't validated BUT in the case of bootstrap select the <!--<select>--> is hidden even though the rendered dropdown list is visible.
 3. Need 'name' attribute for all the input elements requiring validation
 
 ***
@@ -68,7 +68,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 
 #### Summary
 1. Bootswatch provides themes built on top of bootstrap, downloadable for free.
-2. Contains a large number of themes such as flat, slate, papaer, etc.
+2. Contains a large number of themes such as flat, slate, paper, etc.
 3. If you want your site to be different from the regular bootstrap site, this is a good options.
 
 #### Pros

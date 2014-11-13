@@ -8,7 +8,7 @@ Welcome to the Perficient XD Wiki
 
 The XD Wiki is where you can go to find out what XD is using to design and build out UI prototypes.
 
-The XD Wiki pages are created using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so there's no need to know HTML.
+The XD Wiki pages are created using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so there's no need to write HTML.
 
 In the different sections and pages of the site you will find the following in every page. So feel free to use the below markup (in the index.md file) to create new pages or if you want to add to existing pages.
 

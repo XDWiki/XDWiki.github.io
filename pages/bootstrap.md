@@ -58,7 +58,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 
 #### Cons
 1. Since it's based on Bootstrap your forms must be structured using Bootstrap classes
-2. If you have dynamic form fields that are visible/hidden and you are using other Bootstrap plug-ins in the form (ex. bootstrap select) you will run into issues. Hidden fields can be ignored so they aren't validated BUT in the case of bootstrap select the <!--<select>--> is hidden even though the rendered dropdown list is visible.
+2. If you have dynamic form fields that are visible/hidden and you are using other Bootstrap plug-ins in the form (ex. bootstrap select) you will run into issues. Hidden fields can be ignored so they aren't validated BUT in the case of bootstrap select the select HTML markup is hidden even though the rendered dropdown list is visible.
 3. Need 'name' attribute for all the input elements requiring validation
 
 ***

@@ -9,7 +9,7 @@ XD Wiki is a wiki repository built and maintained by XD colleagues to document t
 
 The XD Wiki pages are created using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so there's no need to know HTML.
 
-You can use the [XD Wiki template](xdwikitemplate.md) to grab the basic markdown structure that all XD Wiki pages use.
+You can use the [XD Wiki template](xdwikitemplate.md) to grab the starting markdown structure that all XD Wiki pages use.
 
 ***
 

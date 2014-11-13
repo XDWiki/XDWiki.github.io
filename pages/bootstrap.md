@@ -19,7 +19,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 #### [1. jQuery Validator Plugin](http://www.jqueryvalidation.org) 
 
 **Used by** - Harish
-**Project** - HCA
+**Project** - ???
 
 #### Summary
 1. Plugin used for client side form validation
@@ -42,7 +42,7 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 #### [2. Bootstrap Validator Plugin](http://bootstrapvalidator.com/) 
 
 **Used by** - Mike Gorgone
-**Project** - BSC
+**Project** - ???
 
 #### Summary
 1. Plugin used for client side form validation

@@ -3,8 +3,8 @@
 -- http://xdwiki.github.io.
 -->
 
-Welcome to the XD Wiki
-======================
+Welcome to the Perficient XD Wiki
+================================
 
 The XD Wiki is where you can go to find out what XD is using to design and build out UI prototypes.
 

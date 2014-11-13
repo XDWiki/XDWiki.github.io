@@ -39,6 +39,30 @@ At times, one needs to tweak bootstrap's inbuilt classes and plugins which might
 
 ***
 
+#### [Bootstrap Validator Plugin](http://bootstrapvalidator.com/) 
+
+**Used by** - Mike Gorgone
+**Project** - BSC
+
+#### Summary
+1. Plugin used for client side form validation
+2. Needs Bootstrap
+3. Needs jQuery
+
+#### Pros
+1. Based on Bootstrap so if you're building the site using Bootstrap the plug-in is based on the framework
+2. Many [examples](http://bootstrapvalidator.com/examples/) on the website
+2. Settings allow you to intantiate the validator with custom error messages etc.
+3. Uses validators
+3. Access to the API
+
+#### Cons
+1. Since it's based on Bootstrap your forms must be structured using Bootstrap classes
+2. If you have dynamic form fields that are visible/hidden and you are using other Bootstrap plug-ins in the form (ex. bootstrap select) you will run into issues. Hidden fields can be ignored so they aren't validated BUT in the case of bootstrap select the <select> is hidden even though the rendered dropdown list is visible.
+3. Need 'name' attribute for all the input elements requiring validation
+
+***
+
 ## Bootstrap Themes
 #### [Bootswatch](http://www.bootswatch.com) 
 
